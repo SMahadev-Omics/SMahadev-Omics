@@ -42,6 +42,7 @@ I work at the intersection of multi-omics data analysis and computational modeli
 
 ## Philosophy
 Biology is inherently complex. The goal is not to simplify it — but to structure it in a way that enables intelligence. Every pipeline I build is a translation layer between biological reality and computational reasoning.
+
 ---
 
 ## Open To
