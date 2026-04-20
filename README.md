@@ -1,8 +1,8 @@
 # Hi, I'm Shalini
 
 ## About Me
-I work at the intersection of **multi-omics, clinical systems, and AI-driven biological modeling**.
-My focus is on designing **end-to-end biological workflows** — from **lab protocols and sample handling** to **graph-based modeling and disease intelligence systems**.
+I work at the intersection of multi-omics data analysis and computational modeling — building pipelines that go from raw mass spectrometry or sequencing data all the way to structured biological insight. I'm especially drawn to problems where the biology is messy and the signal is subtle: feature dropout in lipidomics, silent failures in PGX calling, missing values in proteomics.
+Outside of pipelines, I'm exploring graph-based representations of biological systems — using GNNs to model disease–gene relationships and patient-level omics signatures..
 ---
 
 ## What I Work On
@@ -40,8 +40,7 @@ My focus is on designing **end-to-end biological workflows** — from **lab prot
 ---
 
 ## Philosophy
-> Biology is inherently complex.
-> The goal is not to simplify it — but to structure it in a way that enables intelligence.
+Biology is inherently complex. The goal is not to simplify it — but to structure it in a way that enables intelligence. Every pipeline I build is a translation layer between biological reality and computational reasoning.
 ---
 
 ## Open To
