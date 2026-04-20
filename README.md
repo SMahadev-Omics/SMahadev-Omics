@@ -1,8 +1,9 @@
 # Hi, I'm Shalini
 
 ## About Me
-I work at the intersection of multi-omics data analysis and computational modeling — building pipelines that go from raw mass spectrometry or sequencing data all the way to structured biological insight. I'm especially drawn to problems where the biology is messy and the signal is subtle: feature dropout in lipidomics, silent failures in PGX calling, missing values in proteomics.
-Outside of pipelines, I'm exploring graph-based representations of biological systems — using GNNs to model disease–gene relationships and patient-level omics signatures..
+# I work at the intersection of multi-omics data analysis and computational modeling — building pipelines that go from raw mass spectrometry or sequencing data all the way to structured biological insight. I'm especially drawn to problems where the biology is messy and the signal is subtle: feature dropout in lipidomics, silent failures in PGX calling, missing values in proteomics.
+
+# Outside of pipelines, I'm exploring graph-based representations of biological systems — using GNNs to model disease–gene relationships and patient-level omics signatures..
 ---
 
 ## What I Work On
